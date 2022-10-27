@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on Website Development Projects
 - 📫 Reach me at gkguraya5@gmail.com
--   https://gurpreet-kaur.netlify.app/
+- 👩‍💼 https://gurpreet-kaur.netlify.app/
 
 <!---
 preetguraya/preetguraya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
